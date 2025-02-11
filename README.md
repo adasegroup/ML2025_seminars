@@ -6,6 +6,7 @@ This is a repository containing seminars for the Machine Learning course (MA0600
 - SEMINAR 1 (04.02): Ilya Trofimov - Machine learning on Titanic data
 - SEMINAR 2 (06.02): Petr Mokrov - Regression. Kernel Trick
 - SEMINAR 3 (07.02): Petr Mokrov- Classification
+- SEMINAR 4 (11.02): Andrey Lange - Decision Trees and Random Forests
 
 
 ## Course Description:
