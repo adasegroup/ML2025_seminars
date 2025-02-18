@@ -7,6 +7,7 @@ This is a repository containing seminars for the Machine Learning course (MA0600
 - SEMINAR 2 (06.02): Petr Mokrov - Regression. Kernel Trick
 - SEMINAR 3 (07.02): Petr Mokrov- Classification
 - SEMINAR 4 (11.02): Andrey Lange - Decision Trees and Random Forests
+- SEMINAR 5 (14.02): Alexander Marusov - Gradient_Boosting_and_AdaBoost
 - SEMINAR 6 (18.02): Diana Koldasbayeva - Multiclass classification and Imbalanced data
 
 
