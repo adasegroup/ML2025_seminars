@@ -15,6 +15,7 @@ This is a repository containing seminars for the Machine Learning course (MA0600
 - SEMINAR 10 (04.03): Melina Gazdieva - Deep ANN
 - SEMINAR 11 (06.03): Petr Sokerin - Sequential Data
 - SEMINAR 12 (07.03): Eduard Tulchinskiy - Dimensionality Reduction
+- SEMINAR 13 (11.03): Alexander Mironenko - Anomaly Detection
 - SEMINAR 14 (13.03): Igor Udovichenko - Clustering
 - SEMINAR 15 (14.03): Petr Sokerin - Uncertainty
 
